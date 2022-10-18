@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on 3D snake unity project!
 - 🌱 I’m currently learning how to work with unity!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safi00&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safi00&theme=dark)
