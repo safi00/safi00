@@ -1,11 +1,17 @@
 ### Hi there 👋
 
-**safi00/safi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm safi,
 
-Here are some work to get you started:
-- 🔧 Made 2 Unity educational game projects:
-        * Stars - a 3D
-        * Atomic Center - a 3D
-- 🌱 I’m currently learning how to work with unity!
+**safi00/safi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. Some of my expereiences:
+- 💬 I know Java, C#, Pytohn, HTML, CSS & JS.
+- 🗨️ Learning C++.
+- 🔧 Made a black jack back-end program and a failed worlde/lingo & airport plane booking system.
+- 🔧 Made 2 Unity educational game projects & Worked on a existing game together with a assigned group:
+
+        * Stars - a 3D Snake game with coins as a the collectibles and with math question prompts that gives points and a power up!
+        * Atomic Center - a 3D Board game based on a self made board game, where you guess elements.
+        * Villa Elektra - worked on this as a group, we cleaned it up a little and added new levels.
+
+- 🌱 I’m currently making Lingo back-end and hospital file sharing system.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safi00&theme=dark)
