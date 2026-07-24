@@ -18,4 +18,5 @@ Some of my experiences:
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safi00&theme=dark)
+[![safi's GitHub stats](https://github-stats-extended.vercel.app/api?username=safi00
+)](https://github.com/stats-organization/github-stats-extended)
