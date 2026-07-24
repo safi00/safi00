@@ -5,7 +5,7 @@ i'm safi,
 **safi00/safi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Some of my experiences:
-- 💬 I know Java, C#, Pytohn, HTML, CSS & JS.
+- 💬 I know Java, C#, Python, HTML, CSS & JS, worked with Springboot/Docker/PostgreSQL/JetpackCompose.
 - 🗨️ currently Learning C++, Kotlin.
 - 🔧 (Java) Made a black jack back-end program, worlde/lingo, airport plane booking system & Monolith hospital project where we needed to operate as the whole hospital.
 - 🔧 (C#) Made a calculator, tetris game, music api parser & worked on unity games.
