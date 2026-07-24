@@ -8,7 +8,8 @@ Some of my experiences:
 - 💬 I know Java, C#, Pytohn, HTML, CSS & JS.
 - 🗨️ currently Learning C++, Kotlin.
 - 🔧 (Java) Made a black jack back-end program, worlde/lingo, airport plane booking system & Monolith hospital project where we needed to operate as the whole hospital.
-- 🔧 (C#) Made a calculator, tetris game, music api parser.
+- 🔧 (C#) Made a calculator, tetris game, music api parser & worked on unity games.
+- 🔧 (Python) Made various small school projects and small personal discord bot for a competitive challenge we had.
 - 🔧 (HTML/CSS/JS/Springboot) Made a small pokemon website using pokeapi, with a login to adjust the website
 - 🔧 Made 2 Unity educational game projects & Worked on a existing game together with a assigned group:
 
